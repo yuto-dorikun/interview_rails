@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: 1
+  title: MyString
+  scheduled_at: 2025-08-24 09:46:23
+  location: MyString
+  notes: MyText
+  user: one
+  interviewee: one
+
+two:
+  category: 1
+  title: MyString
+  scheduled_at: 2025-08-24 09:46:23
+  location: MyString
+  notes: MyText
+  user: two
+  interviewee: two
